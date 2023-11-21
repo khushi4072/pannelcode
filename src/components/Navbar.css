@@ -1,0 +1,16 @@
+.nav-top{
+    background-color: #66cccc;
+}
+
+.logoimg{
+    height:54px;
+    width:54px;
+}
+
+.navitem li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:black
+}
